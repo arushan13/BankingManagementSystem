@@ -18,10 +18,7 @@ This is a **Python-based Banking Management System** that uses **file handling**
 - Update customer records  
 - Deposit or withdraw money from any account  
 - Modify user details  
-- Delete user accounts  
-- View transaction history  
-- Manage multiple accounts efficiently  
-- **+ More**  
+ **Plus More....!**  
 
 ### **🎨 ASCII Art Interface**  
 - The system features **ASCII art** to enhance the text-based user interface.  
